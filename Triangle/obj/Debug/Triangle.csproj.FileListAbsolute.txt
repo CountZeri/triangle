@@ -1,0 +1,15 @@
+E:\проекты_C#\Triangle\Triangle\bin\Debug\Triangle.exe.config
+E:\проекты_C#\Triangle\Triangle\bin\Debug\Triangle.exe
+E:\проекты_C#\Triangle\Triangle\bin\Debug\Triangle.pdb
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+E:\проекты_C#\Triangle\Triangle\obj\Debug\MainWindow.g.cs
+E:\проекты_C#\Triangle\Triangle\obj\Debug\App.g.cs
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle_MarkupCompile.cache
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle_MarkupCompile.lref
+E:\проекты_C#\Triangle\Triangle\obj\Debug\MainWindow.baml
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.g.resources
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.exe
+E:\проекты_C#\Triangle\Triangle\obj\Debug\Triangle.pdb
